@@ -11,3 +11,4 @@ This can not be empty if ISLEM is R.
 Once every mandatory text box is filled, user can click the Onay button.
 After that the result will be shown near the Onay button.
 Warning: Program does not work with Turkish Letters.
+This program also works as case sensitive.
