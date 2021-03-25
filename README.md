@@ -10,3 +10,4 @@ If user typed R for ISLEM he/she should also provide a new word to replace the o
 This can not be empty if ISLEM is R.
 Once every mandatory text box is filled, user can click the Onay button.
 After that the result will be shown near the Onay button.
+Warning: Program does not work with Turkish Letters.
